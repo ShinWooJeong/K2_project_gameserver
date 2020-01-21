@@ -1,0 +1,29 @@
+[
+    {
+        "id" : 0,
+        "name" : "아퀴아리오",
+        "element" : "water",
+        "trainGrade" : "basic",
+        "position" : "spade",
+        "desc" : "물방울의 정령으로 초급 정령이다. 초급 정령 소환서로 습득할 수 있다.",
+        "skills":[
+            "아퀴아모",
+            "아퀴르모",
+            "아퀴테스"
+        ]
+    },
+    {
+        "id" : 1,
+        "name" : "아퀴아리오",
+        "element" : "water",
+        "trainGrade" : "basic",
+        "position" : "spade",
+        "desc" : "물방울의 정령으로 초급 정령이다. 초급 정령 소환서로 습득할 수 있다.",
+        "skills":[
+            "아퀴아모",
+            "아퀴르모",
+            "아퀴테스"
+        ]
+    }
+
+]

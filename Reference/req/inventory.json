@@ -1,0 +1,21 @@
+[
+    {
+        "my_wand_tab":{
+            "user_key":0
+        },
+        "my_wand_drag":{
+            "user_key": 0,
+            "wand_key": 0
+        }
+    },
+    {
+        "my_comsume_tab": {
+            "user_key": 0
+        }
+    },
+    {
+        "my_etc_tab": {
+            "user_key": 0
+        }
+    }
+]

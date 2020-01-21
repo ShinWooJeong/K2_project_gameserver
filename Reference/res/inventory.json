@@ -1,0 +1,40 @@
+[
+    {
+        "my_wand_tab":[
+            {
+                "wand_key":0,
+                "name":"",
+                "atk":100,
+                "accurate":100,
+                "speed":100,
+                "resistance":100,
+                "cooltime":30,
+                "reinforce":50,
+                "price":4000
+            }
+        ],
+        "my_wand_drag":{
+            "#content":"TBLuser에 wand_key변경"
+        }
+    },
+    {
+        "my_comsume_tab": [
+            {
+                "consume_key":0,
+                "item_key":0,
+                "name":"",
+                "price":3500
+            }
+        ]
+    },
+    {
+        "my_etc_tab": [
+            {
+                "etc_key":0,
+                "item_key":0,
+                "name":"hi",
+                "price":3500
+            }
+        ]
+    }
+]

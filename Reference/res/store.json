@@ -1,0 +1,88 @@
+[
+    {
+        "consume_store_tab": [
+            {
+                "id":0,
+                "name":"",
+                "price":4000,
+                "description":"",
+                "category":""
+            }
+        ],
+        "buy_button": {
+            "#content":"소비인벤토리db에 아이템 추가하고 돈 없어짐"
+        }
+    },
+    {
+        "gold_store_tab": [
+            {
+                "id":0,
+                "name":"",
+                "price":4000,
+                "description":"",
+                "category":""
+            }
+        ],
+        "buy_button": {
+            "#content":"기타인벤토리db에 아이템 추가하고 돈 없어짐"
+        }
+    },
+    {
+        "baron_store_tab":[
+            {
+                "id":0,
+                "name":"",
+                "baron":4000,
+                "description":"",
+                "category":""
+            }
+        ],
+        "buy_button": {
+            "#content":"캐시인벤토리db에 아이템 추가하고 돈 없어짐"
+        }
+    },
+    {
+        "my_wand_tab": [
+            {
+                "wand_key":0,
+                "name":"",
+                "atk":100,
+                "accurate":100,
+                "speed":100,
+                "resistance":100,
+                "cooltime":30,
+                "reinforce":50,
+                "price":4000
+            }
+        ],
+        "my_wand_sell": {
+            "#content":"장비인벤토리db에 아이템 삭제하고 돈 추가됨"
+        }
+    },
+    {
+        "my_comsume_tab": [
+            {
+                "consume_key":0,
+                "item_key":0,
+                "name":"",
+                "price":3500
+            }
+        ],
+        "my_comsume_sell": {
+            "#content":"소비인벤토리db에 아이템 삭제하고 돈 추가됨"
+        }
+    },
+    {
+        "my_etc_tab": [
+            {
+                "etc_key":0,
+                "item_key":0,
+                "name":"hi",
+                "price":3500
+            }
+        ],
+        "my_etc_sell": {
+            "#content":"기타인벤토리db에 아이템 삭제하고 돈 추가됨"
+        }
+    }
+]

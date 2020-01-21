@@ -1,0 +1,41 @@
+[
+    {
+        "chacater_Tab":{
+            "user_key": 0,
+            "character_select_key": 0
+        },
+        "character_Drag":{
+            "user_key":0,
+            "charater_select_key":0
+        }
+    },
+    {
+        "skin_Tab":{
+            "user_key": 0,
+            "character_select_key": 0
+        },
+        "skin_Drag": {
+            "character_key": 0,
+            "skin_key":0,
+            "skin_name":""
+        }
+    },
+    {
+        "pet_Tab": {
+            "user_key": 0
+        },
+        "pet_Drag": {
+            "user_key": 0,
+            "pet_key": 0
+        }
+    },
+    {
+        "servant_Tab": {
+            "user_key": 0
+        },
+        "servant_Drag":{
+            "user_key": 0,
+            "servant_key": 0
+        }
+    }
+]

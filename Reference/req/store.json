@@ -1,0 +1,53 @@
+[
+    {
+        "consume_store_tab": {
+            "item_key": 0
+        },
+        "buy_button": {
+            "item_key": 0,
+            "user_key": 0
+        }
+    },
+    {
+        "gold_store_tab": {
+            "item_key": 0
+        },
+        "buy_button": {
+            "item_key": 0,
+            "user_key": 0
+        }
+    },
+    {
+        "baron_store_tab":{
+            "item_key":0
+        },
+        "buy_button": {
+            "item_key": 0,
+            "user_key": 0
+        }
+    },
+    {
+        "my_wand_tab": {
+            "user_key": 0
+        },
+        "my_wand_sell": {
+            "user_key": 0
+        }
+    },
+    {
+        "my_comsume_tab": {
+            "user_key": 0
+        },
+        "my_comsume_sell": {
+            "user_key": 0
+        }
+    },
+    {
+        "my_etc_tab": {
+            "user_key": 0
+        },
+        "my_etc_sell": {
+            "user_key": 0
+        }
+    }
+]

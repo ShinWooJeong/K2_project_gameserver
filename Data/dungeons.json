@@ -1,0 +1,40 @@
+[
+    {
+        "id" : 0,
+        "name" : "정령의숲",
+        "location"	:"제1개척지",
+        "maxRound" :3,
+        "monsters"	: [
+            "숲요정",
+            "어린가지엔트",
+            "숲드라이어드"
+        ],
+        "boss"		:"숲지기엔트",
+        "awards" : [
+            {
+                "name" : "흑단나무",
+                "chance" : "default"
+            },
+            {
+                "name" : "요정가루",
+                "chance" : "default"
+            },
+            {
+                "name" : "엔트의 잎사귀",
+                "chance" : "default"
+            },
+            {
+                "name" : "엔트의 가지조각",
+                "chance" : "default"
+            },
+            {
+                "name" : "추출된 엔트의 영혼석",
+                "chance" : "default"
+            },
+            {
+                "name" : "숲의 지팡이",
+                "chance" : "default"
+            }
+        ]
+    }
+]

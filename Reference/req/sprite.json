@@ -1,0 +1,25 @@
+[
+    {
+        "my_sprites":{
+            "user_key": 0
+        }
+    },
+    {
+        "drag_box1":{
+            "user_key": 0,
+            "sprites_key": 0
+        }
+    },
+    {
+        "drag_box2":{
+            "user_key": 0,
+            "sprites_key": 0
+        }
+    },
+    {
+        "drag_box3":{
+            "user_key": 0,
+            "sprites_key": 0
+        }
+    }
+]
